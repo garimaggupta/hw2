@@ -32,7 +32,7 @@ body {
 }
 
 
-.btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+.btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-primary:active  {
     background-color: #4AAAA3;
     border-color: #4aaaa5;
 }
@@ -69,6 +69,8 @@ img {
 
  .p-block {
     text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.15rem;
  }
 
 .footer-style {
