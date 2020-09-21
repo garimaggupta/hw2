@@ -10,7 +10,7 @@ body {
 }
 
 
- .navbar-light .navbar-brand {
+ .navbar-light .navbar-brand, .navbar-brand:hover, .navbar-brand:focus  {
      font-family: 'Times New Roman', Times, serif;
      font-weight: bold;
      background-color: #4aaaa5;
